@@ -1,0 +1,7 @@
+pkg.homepage: "https://github.com/lance-proxy/mynewt_proj"
+pkg.name: "targets/dh_temp_sensor"
+pkg.type: target
+pkg.description: "BLE Temperature Sensor"
+pkg.author: 
+pkg.homepage: 
+
